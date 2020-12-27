@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello, I'm Shubham. Welcome!! 👋
 
+![Capture](https://user-images.githubusercontent.com/61676386/103179966-69867300-484e-11eb-8428-adbd91642625.JPG)
 <!--
 **Shubhamturakhia/Shubhamturakhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
