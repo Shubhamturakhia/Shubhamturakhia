@@ -1,4 +1,5 @@
-### Hello, I'm Shubham. Welcome!! 👋
+### Hello, I'm Shubham. Welcome!! 👋  
+![](https://komarev.com/ghpvc/?username=Shubhamturakhia)
 
 <p align="center">
   <img width="700" height="300" src="https://user-images.githubusercontent.com/61676386/103179966-69867300-484e-11eb-8428-adbd91642625.JPG">
